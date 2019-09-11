@@ -7,8 +7,9 @@ Picture: ![my picture](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/70170243_10
 My github: https://github.com/hfvos90
 
 React projects I have worked on: 
-* Robofriends: https://hfvos90.github.io/Robofriends-React/
-* Weather app: https://hfvos90.github.io/weather-app/
+1. Robofriends: https://hfvos90.github.io/Robofriends-React/
+2. Weather app: https://hfvos90.github.io/weather-app/
 
 Sass projects:
 * Portfolio: https://hfvos90.github.io/My-portfolio/about.html
+
